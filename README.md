@@ -1,0 +1,1 @@
+suffix automation in golang
